@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paras Sahu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Mern Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me Email: sahujuparas786@gmail.com
 
 <!---
