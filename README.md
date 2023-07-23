@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me Email: sahujuparas786@gmail.com
+- 📫 How to reach me Email: parassahu2308@gmail.com
 
 <!---
 Parassahu2308/Parassahu2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
